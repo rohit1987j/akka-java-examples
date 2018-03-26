@@ -1,0 +1,6 @@
+rootProject.name = 'learning'
+include 'concurrency'
+include 'regex'
+include 'akka'
+include 'first-example'
+
